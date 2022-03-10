@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ERP Stock Accounting" parallel="methods" thread-count="1" >
+  <listeners>
+     <listener class-name="commonMethods.ListenerTest"/>
+  </listeners>
+  <test name="LoginPage Module">
+    <classes>
+      <class name="sampleScripts.LoginTC111"/>
+    </classes>
+  </test>
+</suite>

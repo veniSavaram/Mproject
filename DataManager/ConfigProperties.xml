@@ -1,0 +1,9 @@
+<?xml version="1.0"?>  
+<ERP>  
+    <Login>
+	    <chrome>chromedriver.exe</chrome>
+        <url>http://orangehrm.qedgetech.com/webapp/login.php</url>  
+        <login>admin</login>  
+        <password>master</password> 
+    </Login>
+</ERP>
