@@ -17,6 +17,7 @@ public class LoginTC {
 		
 		base.launchERP();
 		base.LoginERP();
+		System.out.println("Hello this is for test");
 
 	}
 
