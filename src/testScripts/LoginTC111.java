@@ -17,5 +17,7 @@ public class LoginTC111 {
 		
 		base.launchERP();
 		base.LoginERP();
+		
+		System.out.println("This TC is related to Login Test Case..");
   }
 }
