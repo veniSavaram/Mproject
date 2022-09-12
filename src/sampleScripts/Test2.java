@@ -6,6 +6,7 @@ public class Test2 {
 		// TODO Auto-generated method stub
 		
 		System.out.println(" This is a Sample Test Program for GITHUB");
+		System.out.println("This line is added from Eclipse IDE..");
 
 	}
 
