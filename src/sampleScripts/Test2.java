@@ -7,6 +7,7 @@ public class Test2 {
 		
 		System.out.println(" This is a Sample Test Program for GITHUB");
 		System.out.println("This line is added from Eclipse IDE..");
+		System.out.println("This line is added from the GITHUB Server");
 
 	}
 
